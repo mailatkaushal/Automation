@@ -39,7 +39,7 @@ public class SeleniumPractice {
 		System.out.println(el.getText());
 		
 		
-		// Actions
+		// Actions class
 		
 		driver.get("https://www.amazon.in/");
 		
